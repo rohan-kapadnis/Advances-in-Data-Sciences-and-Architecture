@@ -7,26 +7,26 @@ Introduces techniques for machine learning and artificial intelligence
 
 Specifically, the following topics are covered:
 
-Probability Review, Bayes’ Rule
-Statistics
-Distributions, Exponential Families, Sufficient Statistics, Likelihoods
-Prior and Posterior Distributions, Conjugate Priors, Joint Inference
-Sensitivity Analysis, Hypothesis Testing, ANOVA
-Unsupervised Learning (Clustering)
-Cross-Validation, Bias-Variance Tradeoff
-Linear Models, Model Inference
-Supervised Learning
-Natural Language Processing
-Time Series Analysis
-Reinforcement learning (RL)
-Q-Learning
-Policy gradients
-Deep Q-Learning
-Deep Learning
-CNNs, RNNs
-Autoencoders, VAEs, and GANs
-Time-Series Models, Auto-regressive NNs
-Recommender systems
+1. Probability Review, Bayes’ Rule
+2. Statistics
+3. Distributions, Exponential Families, Sufficient Statistics, Likelihoods
+4. Prior and Posterior Distributions, Conjugate Priors, Joint Inference
+5. Sensitivity Analysis, Hypothesis Testing, ANOVA
+6. Unsupervised Learning (Clustering)
+7. Cross-Validation, Bias-Variance Tradeoff
+8. Linear Models, Model Inference
+9. Supervised Learning
+10. Natural Language Processing
+11. Time Series Analysis
+12. Reinforcement learning (RL)
+13. Q-Learning
+14. Policy gradients
+15. Deep Q-Learning
+16. Deep Learning
+17. CNNs, RNNs
+18. Autoencoders, VAEs, and GANs
+19. Time-Series Models, Auto-regressive NNs
+20. Recommender systems
 
 
 ## Course under : 
